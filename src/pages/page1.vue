@@ -1,11 +1,17 @@
 <template>
-  <router-view></router-view>
+<div class="bg2">
+  <div class = "big_container">
+    <a style="color: white" href="#/">Que es</a> |
+    <a style="color: white" href="#/page1">Campanya</a> |
+    <a style="color: white"  href="#/page2">Links interes</a> |
+  </div>
+</div>
+<p></p>
 </template>
 <script>
-import "bootstrap/dist/css/bootstrap.css";
 
 export default {
-  name: 'MainApp',
+  name: 'pageBocetas',
   components: {
   }
 }
@@ -50,11 +56,14 @@ p{
   margin-left: 50px;
 
 }
-.bg {
+.bg2 {
   /* The image used */
-  background-image: url("assets/img.png");
+  height: 1000px;
+  width: 1300px;
+  overflow-x: scroll;
+  background-image: url("../assets/img2.png");
   /* Full height */
-  height: 100%;
+
 
   /* Center and scale the image nicely */
   background-position: center;
