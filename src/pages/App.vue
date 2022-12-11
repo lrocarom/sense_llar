@@ -6,7 +6,7 @@
       <a style="color: white"  href="#/page2">Links interes</a> |
       <div class="row">
         <div class="col-lg-4 container" >
-          <h1>QUE ES EL SENSELLARISME?</h1>
+          <h1>QUÈ ÉS EL SENSELLARISME?</h1>
         </div>
         <div class="col-lg-5 container">
           <p>Les persones sense llar no només són les persones sense sostre,sinó que són totes aquelles persones que es troben en una situació que no disposen d’un habitatge digne, adequat i estable.</p>
@@ -23,21 +23,21 @@
         <div class="col-4"></div>
         <div class="col-lg-5 container_light">
           <h1>SENSE HABITATGE</h1>
-          <p>Pot disposar d’un espai físic, encara que aquest no reuneixi les condicions necessàries de privacitat per considerar-se com a espai <propi></propi></p>
+          <p>Pot disposar d’un espai físic per viure, encara que aquest no reuneixi les condicions necessàries de privacitat per considerar-se com a llar <propi></propi></p>
         </div>
       </div>
       <div class="row">
         <div class="col-2"></div>
         <div class="col-lg-4 container_light">
           <h1>HABITATGE INSEGUR</h1>
-          <p>Es disposa d’un espai físic on pot desenvolupar la vida privada però no es gaudeix de permís legal per utilitzar l’allotjament/ sota amenaça de violencia</p>
+          <p>Es disposa d’un espai físic on pot desenvolupar la vida privada però no es gaudeix de permís legal per utilitzar l’allotjament o està sota amenaça de violencia</p>
         </div>
       </div>
       <div class="row">
         <div class="col-4"></div>
         <div class="col-lg-5 container_light">
           <h1>HABITATGE INADEQUAT</h1>
-          <p>La persona viu en un espai que no reuneix les condicions adequades per a l’habitabilita</p>
+          <p>La persona viu en un espai que no reuneix les condicions adequades per a l’habitabilitat</p>
         </div>
       </div>
     </div>
