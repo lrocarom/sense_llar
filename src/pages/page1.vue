@@ -70,4 +70,14 @@ p{
   background-repeat: no-repeat;
   background-size: cover;
 }
+@media screen{
+    .bg{
+      min-height: 1600px;
+      width: 100%;
+    }
+  h1{
+    font-size: 26px;
+
+  }
+}
 </style>

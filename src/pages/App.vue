@@ -5,7 +5,7 @@
       <a style="color: white" href="#/page1">Campanya</a> |
       <a style="color: white"  href="#/page2">Links interes</a> |
       <div class="row">
-        <div class="col-4 container" >
+        <div class="col-lg-4 container" >
           <h1>QUE ES EL SENSELLARISME?</h1>
         </div>
         <div class="col-lg-5 container">
