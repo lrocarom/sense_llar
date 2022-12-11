@@ -30,7 +30,7 @@
         <div class="col-2"></div>
         <div class="col-lg-4 container_light">
           <h1>HABITATGE INSEGUR</h1>
-          <p>Es disposa d’un espai físic on pot desenvolupar la vida privada però no es gaudeix de permís legal per utilitzar l’allotjament o està sota amenaça de violencia</p>
+          <p>Es disposa d’un espai físic on pot desenvolupar la vida privada però no es gaudeix de permís legal per utilitzar l’allotjament o està sota amenaça de violència</p>
         </div>
       </div>
       <div class="row">
